@@ -12,7 +12,8 @@ Um simples projeto em Python que consulta e exibe o seu endereço IP público ut
 2. Execute o script:
 
    ```bash
-   git clone https://github.com/vito-ysl/Consultador-de-Ip.git
+   python consultar_ip.py
+
 
 ## Código
 
