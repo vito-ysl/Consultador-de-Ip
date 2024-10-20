@@ -2,15 +2,6 @@
 
 Este é um simples projeto em Python que consulta e exibe o seu endereço IP público utilizando a API do [ipify](https://www.ipify.org/).
 
-## Tabela de Conteúdos
-
-- [Funcionalidades](#funcionalidades)
-- [Pré-requisitos](#pré-requisitos)
-- [Como usar](#como-usar)
-- [Código](#código)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Funcionalidades
 
